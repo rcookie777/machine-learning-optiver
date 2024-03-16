@@ -10,3 +10,11 @@ selection and evaluation
 
 **reference_price_NN.ipynb** - jupyter notebook containing model for a FFNN as well as 
 evaluation of its performance
+
+# Contributors
+
+ - Elias Taira
+ - Riley Cook
+ - Daniel Flanagan
+ - Nixon Holley
+ - Reeve Fernandes
