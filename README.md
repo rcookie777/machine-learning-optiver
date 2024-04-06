@@ -11,6 +11,8 @@ selection and evaluation
 **reference_price_NN.ipynb** - jupyter notebook containing model for a FFNN as well as 
 evaluation of its performance
 
+**LSTM.ipynb** - notebook containing an LSTM model and data preparation for the model
+
 # Contributors
 
  - Elias Taira
