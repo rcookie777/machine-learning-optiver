@@ -1,0 +1,1298 @@
+
+Lmod is automatically replacing "Python/3.6.4" with "Conda/3".
+
+2024-04-05 19:38:35.434668: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Gridsearch begins LSTM
+2024-04-05 19:38:48.912498: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-04-05 19:38:48.958393: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-04-05 19:38:49.113465: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-04-05 19:38:49.180230: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-04-05 19:38:49.268108: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+2024-04-05 19:38:55.502879: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+2024-04-05 19:38:55.799532: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+2024-04-05 19:38:55.884254: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+2024-04-05 19:38:56.142233: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+2024-04-05 19:38:57.096240: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+2024-04-05 19:39:34.803538: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+2024-04-05 19:39:44.794333: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/joblib/externals/loky/process_executor.py:700: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+2024-04-05 21:08:53.338246: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+2024-04-05 21:09:10.647581: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+/mnt/scratch/tairaeli/anaconda3/envs/tf/lib/python3.11/site-packages/scikeras/wrappers.py:915: UserWarning: ``build_fn`` will be renamed to ``model`` in a future release, at which point use of ``build_fn`` will raise an Error instead.
+  X, y = self._initialize(X, y)
+2024-04-05 21:11:32.571569: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+Best: 0.514154 using {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'SGD'}
+0.503249 (0.004825) with: {'activation': 'relu', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'Adam'}
+0.504612 (0.005203) with: {'activation': 'relu', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'SGD'}
+0.498846 (0.001991) with: {'activation': 'relu', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.504299 (0.007088) with: {'activation': 'relu', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'Adam'}
+0.498008 (0.003295) with: {'activation': 'relu', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'SGD'}
+0.495281 (0.003816) with: {'activation': 'relu', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.494548 (0.008492) with: {'activation': 'relu', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'Adam'}
+0.509121 (0.004165) with: {'activation': 'relu', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'SGD'}
+0.499057 (0.002653) with: {'activation': 'relu', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.500210 (0.000964) with: {'activation': 'relu', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'Adam'}
+0.499161 (0.001092) with: {'activation': 'relu', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'SGD'}
+0.506711 (0.012768) with: {'activation': 'relu', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.502411 (0.004759) with: {'activation': 'relu', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'Adam'}
+0.502621 (0.003937) with: {'activation': 'relu', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'SGD'}
+0.502516 (0.003910) with: {'activation': 'relu', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.499790 (0.002127) with: {'activation': 'relu', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'Adam'}
+0.491717 (0.013438) with: {'activation': 'relu', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'SGD'}
+0.503774 (0.002565) with: {'activation': 'relu', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.497799 (0.004054) with: {'activation': 'relu', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'Adam'}
+0.500210 (0.000607) with: {'activation': 'relu', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'SGD'}
+0.501153 (0.001247) with: {'activation': 'relu', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.499161 (0.002985) with: {'activation': 'relu', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'Adam'}
+0.496226 (0.002697) with: {'activation': 'relu', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'SGD'}
+0.496226 (0.002903) with: {'activation': 'relu', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.494863 (0.004114) with: {'activation': 'relu', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'Adam'}
+0.498322 (0.003280) with: {'activation': 'relu', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'SGD'}
+0.500838 (0.007255) with: {'activation': 'relu', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.501678 (0.001696) with: {'activation': 'relu', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'Adam'}
+0.497169 (0.003321) with: {'activation': 'relu', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'SGD'}
+0.498636 (0.008296) with: {'activation': 'relu', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.500210 (0.005406) with: {'activation': 'relu', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'Adam'}
+0.500524 (0.000774) with: {'activation': 'relu', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'SGD'}
+0.509017 (0.007931) with: {'activation': 'relu', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.508388 (0.002913) with: {'activation': 'relu', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'Adam'}
+0.504928 (0.008667) with: {'activation': 'relu', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'SGD'}
+0.500524 (0.001077) with: {'activation': 'relu', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.499895 (0.005226) with: {'activation': 'tanh', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'Adam'}
+0.496015 (0.007083) with: {'activation': 'tanh', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'SGD'}
+0.504509 (0.004744) with: {'activation': 'tanh', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.499895 (0.001443) with: {'activation': 'tanh', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'Adam'}
+0.504927 (0.007301) with: {'activation': 'tanh', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'SGD'}
+0.499160 (0.005760) with: {'activation': 'tanh', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.508387 (0.006764) with: {'activation': 'tanh', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'Adam'}
+0.500000 (0.003803) with: {'activation': 'tanh', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'SGD'}
+0.499267 (0.004598) with: {'activation': 'tanh', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.493709 (0.007452) with: {'activation': 'tanh', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'Adam'}
+0.496959 (0.005195) with: {'activation': 'tanh', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'SGD'}
+0.506292 (0.006599) with: {'activation': 'tanh', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.494862 (0.008936) with: {'activation': 'tanh', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'Adam'}
+0.499162 (0.007129) with: {'activation': 'tanh', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'SGD'}
+0.506395 (0.002894) with: {'activation': 'tanh', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.508598 (0.007132) with: {'activation': 'tanh', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'Adam'}
+0.501992 (0.006100) with: {'activation': 'tanh', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'SGD'}
+0.500314 (0.004834) with: {'activation': 'tanh', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.495387 (0.001616) with: {'activation': 'tanh', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'Adam'}
+0.502936 (0.002969) with: {'activation': 'tanh', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'SGD'}
+0.501363 (0.003039) with: {'activation': 'tanh', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.497169 (0.001728) with: {'activation': 'tanh', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'Adam'}
+0.501258 (0.001225) with: {'activation': 'tanh', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'SGD'}
+0.504928 (0.005586) with: {'activation': 'tanh', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.498532 (0.001553) with: {'activation': 'tanh', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'Adam'}
+0.499476 (0.001532) with: {'activation': 'tanh', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'SGD'}
+0.500315 (0.006149) with: {'activation': 'tanh', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.503880 (0.002313) with: {'activation': 'tanh', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'Adam'}
+0.505661 (0.006530) with: {'activation': 'tanh', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'SGD'}
+0.502831 (0.006755) with: {'activation': 'tanh', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.499057 (0.003179) with: {'activation': 'tanh', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'Adam'}
+0.495701 (0.002646) with: {'activation': 'tanh', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'SGD'}
+0.496122 (0.005605) with: {'activation': 'tanh', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.496016 (0.004877) with: {'activation': 'tanh', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'Adam'}
+0.499162 (0.004049) with: {'activation': 'tanh', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'SGD'}
+0.497169 (0.003241) with: {'activation': 'tanh', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.500314 (0.000588) with: {'activation': 'sigmoid', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'Adam'}
+0.500524 (0.000074) with: {'activation': 'sigmoid', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'SGD'}
+0.500105 (0.000519) with: {'activation': 'sigmoid', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.499581 (0.000074) with: {'activation': 'sigmoid', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'Adam'}
+0.500524 (0.000074) with: {'activation': 'sigmoid', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'SGD'}
+0.499790 (0.000486) with: {'activation': 'sigmoid', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.499581 (0.000196) with: {'activation': 'sigmoid', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'Adam'}
+0.500524 (0.000074) with: {'activation': 'sigmoid', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'SGD'}
+0.500210 (0.000486) with: {'activation': 'sigmoid', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.501468 (0.001923) with: {'activation': 'sigmoid', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'Adam'}
+0.495072 (0.007095) with: {'activation': 'sigmoid', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'SGD'}
+0.499371 (0.000842) with: {'activation': 'sigmoid', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.499056 (0.004006) with: {'activation': 'sigmoid', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'Adam'}
+0.500210 (0.001077) with: {'activation': 'sigmoid', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'SGD'}
+0.505660 (0.008227) with: {'activation': 'sigmoid', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.499476 (0.001193) with: {'activation': 'sigmoid', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'Adam'}
+0.498847 (0.002410) with: {'activation': 'sigmoid', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'SGD'}
+0.503460 (0.007277) with: {'activation': 'sigmoid', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.503566 (0.008464) with: {'activation': 'sigmoid', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'Adam'}
+0.496540 (0.002122) with: {'activation': 'sigmoid', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'SGD'}
+0.509646 (0.013170) with: {'activation': 'sigmoid', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.500000 (0.002272) with: {'activation': 'sigmoid', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'Adam'}
+0.509541 (0.003389) with: {'activation': 'sigmoid', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'SGD'}
+0.504194 (0.002119) with: {'activation': 'sigmoid', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.493394 (0.007125) with: {'activation': 'sigmoid', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'Adam'}
+0.501993 (0.013936) with: {'activation': 'sigmoid', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'SGD'}
+0.500944 (0.005558) with: {'activation': 'sigmoid', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.504927 (0.001656) with: {'activation': 'sigmoid', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'Adam'}
+0.503670 (0.006678) with: {'activation': 'sigmoid', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'SGD'}
+0.500628 (0.005741) with: {'activation': 'sigmoid', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.494128 (0.005843) with: {'activation': 'sigmoid', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'Adam'}
+0.494654 (0.005003) with: {'activation': 'sigmoid', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'SGD'}
+0.510170 (0.000450) with: {'activation': 'sigmoid', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.499897 (0.010993) with: {'activation': 'sigmoid', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'Adam'}
+0.499790 (0.008486) with: {'activation': 'sigmoid', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'SGD'}
+0.501363 (0.005163) with: {'activation': 'sigmoid', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.501153 (0.002188) with: {'activation': 'linear', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'Adam'}
+0.493501 (0.008747) with: {'activation': 'linear', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'SGD'}
+0.503147 (0.011140) with: {'activation': 'linear', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.499266 (0.005879) with: {'activation': 'linear', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'Adam'}
+0.497903 (0.004907) with: {'activation': 'linear', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'SGD'}
+0.496854 (0.002578) with: {'activation': 'linear', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.502621 (0.012961) with: {'activation': 'linear', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'Adam'}
+0.497169 (0.005005) with: {'activation': 'linear', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'SGD'}
+0.501049 (0.003887) with: {'activation': 'linear', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.499790 (0.000519) with: {'activation': 'linear', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'Adam'}
+0.497798 (0.004226) with: {'activation': 'linear', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'SGD'}
+0.497798 (0.001679) with: {'activation': 'linear', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.502202 (0.006355) with: {'activation': 'linear', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'Adam'}
+0.500734 (0.004645) with: {'activation': 'linear', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'SGD'}
+0.501048 (0.001965) with: {'activation': 'linear', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.498112 (0.008281) with: {'activation': 'linear', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'Adam'}
+0.498428 (0.002018) with: {'activation': 'linear', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'SGD'}
+0.499790 (0.004434) with: {'activation': 'linear', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.508910 (0.011047) with: {'activation': 'linear', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'Adam'}
+0.487103 (0.010218) with: {'activation': 'linear', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'SGD'}
+0.494442 (0.007771) with: {'activation': 'linear', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.495806 (0.008412) with: {'activation': 'linear', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'Adam'}
+0.495492 (0.000981) with: {'activation': 'linear', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'SGD'}
+0.497064 (0.001521) with: {'activation': 'linear', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.498218 (0.002701) with: {'activation': 'linear', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'Adam'}
+0.501572 (0.001556) with: {'activation': 'linear', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'SGD'}
+0.502307 (0.002458) with: {'activation': 'linear', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.500315 (0.003897) with: {'activation': 'linear', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'Adam'}
+0.499686 (0.002565) with: {'activation': 'linear', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'SGD'}
+0.499266 (0.002015) with: {'activation': 'linear', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.498636 (0.007117) with: {'activation': 'linear', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'Adam'}
+0.498952 (0.000607) with: {'activation': 'linear', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'SGD'}
+0.501573 (0.003332) with: {'activation': 'linear', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.500734 (0.005128) with: {'activation': 'linear', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'Adam'}
+0.495596 (0.003036) with: {'activation': 'linear', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'SGD'}
+0.509643 (0.014930) with: {'activation': 'linear', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.497589 (0.004529) with: {'activation': 'swish', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'Adam'}
+0.500315 (0.000340) with: {'activation': 'swish', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'SGD'}
+0.507547 (0.008912) with: {'activation': 'swish', 'learning_rate': 0.1, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.503984 (0.003727) with: {'activation': 'swish', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'Adam'}
+0.502202 (0.003226) with: {'activation': 'swish', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'SGD'}
+0.499056 (0.001051) with: {'activation': 'swish', 'learning_rate': 0.1, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.503250 (0.003295) with: {'activation': 'swish', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'Adam'}
+0.500000 (0.001225) with: {'activation': 'swish', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'SGD'}
+0.500734 (0.000911) with: {'activation': 'swish', 'learning_rate': 0.1, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.496960 (0.006552) with: {'activation': 'swish', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'Adam'}
+0.501258 (0.005258) with: {'activation': 'swish', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'SGD'}
+0.511952 (0.007791) with: {'activation': 'swish', 'learning_rate': 0.01, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.501468 (0.001373) with: {'activation': 'swish', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'Adam'}
+0.492557 (0.008276) with: {'activation': 'swish', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'SGD'}
+0.499791 (0.005823) with: {'activation': 'swish', 'learning_rate': 0.01, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.494234 (0.005996) with: {'activation': 'swish', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'Adam'}
+0.494967 (0.009693) with: {'activation': 'swish', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'SGD'}
+0.500210 (0.003374) with: {'activation': 'swish', 'learning_rate': 0.01, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.499161 (0.001373) with: {'activation': 'swish', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'Adam'}
+0.500629 (0.002018) with: {'activation': 'swish', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'SGD'}
+0.496435 (0.003642) with: {'activation': 'swish', 'learning_rate': 0.001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.499475 (0.004232) with: {'activation': 'swish', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'Adam'}
+0.499685 (0.000802) with: {'activation': 'swish', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'SGD'}
+0.499791 (0.001676) with: {'activation': 'swish', 'learning_rate': 0.001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.499372 (0.008880) with: {'activation': 'swish', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'Adam'}
+0.498008 (0.001595) with: {'activation': 'swish', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'SGD'}
+0.498847 (0.003437) with: {'activation': 'swish', 'learning_rate': 0.001, 'neurons': 128, 'optimizer': 'RMSprop'}
+0.503355 (0.001626) with: {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'Adam'}
+0.501048 (0.000874) with: {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'SGD'}
+0.501468 (0.001193) with: {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 32, 'optimizer': 'RMSprop'}
+0.497693 (0.003260) with: {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'Adam'}
+0.501153 (0.002417) with: {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'SGD'}
+0.497170 (0.004442) with: {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 64, 'optimizer': 'RMSprop'}
+0.500526 (0.011937) with: {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'Adam'}
+0.514154 (0.002579) with: {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'SGD'}
+0.499895 (0.000267) with: {'activation': 'swish', 'learning_rate': 0.0001, 'neurons': 128, 'optimizer': 'RMSprop'}
+Traceback (most recent call last):
+  File "/mnt/home/tairaeli/cse404_project/machine-learning-optiver/LSTM.py", line 180, in <module>
+    loss, accuracy = model.evaluate(te_data.X, te_data.y)
+                     ^^^^^^^^^^^^^^
+AttributeError: 'KerasClassifier' object has no attribute 'evaluate'
